@@ -2,7 +2,7 @@
 
 Personal website / blog built with Jekyll.
 
-Live site: grappler91.github.io/alvinli91.io/ (if deployed)
+Live site: grappler91.github.io/alvinli91.io/
 
 ## About
 This repository contains the source for my personal website. It is built using Jekyll and SCSS, with site configuration in `_config.yml` and content in Markdown.
@@ -56,4 +56,4 @@ See the `LICENSE` file for license details.
 
 ## Contact
 GitHub: https://github.com/grappler91
-Email: (add your email if you want direct contact)
+
