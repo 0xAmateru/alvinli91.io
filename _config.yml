@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Alvin and I'm a Network Security Specialist. Along with typical support I have experience with end point security and email security.
+  Hi, my name's Alvin and I'm a Network Security Specialist with experience in endpoint security, email security, and general technical support.
 
-  I am most skilled in: <mark>Email Security</mark> and <mark>BJJ</mark>
+  I am most skilled in: <mark>Email Security</mark> and <mark>Network Defense</mark>
 
 content:
   - title: Projects # Title for the section
