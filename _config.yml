@@ -16,7 +16,7 @@ darkmode: false
 
 # Social links
 # twitter_username: 
-github_username: grappler91
+github_username: 0xamateru
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: Webpage/Portfolio
-        link: https://grappler91.github.io/alvinli91.io/
+        link: https://0xamateru.github.io/alvinli91.io/
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
